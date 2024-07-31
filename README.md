@@ -4,7 +4,7 @@ Welcome to the ATmega4808 Lab Exercises repository! This repository contains a c
 ## Table of Contents
   
 
-  - [Lab 1: Pedestrian crossing](#lab-1-blinking-led)
+  - [Lab 1: Traffic lights](#lab-1-blinking-led)
   - [Lab 2: ADC robotic sweeper](#lab-2-button-press-detection)
   - [Lab 3: Fan control](#lab-3-analog-to-digital-conversion-adc)
   - [Lab 4: Greenhouse](#lab-4-pwm-signal-generation)

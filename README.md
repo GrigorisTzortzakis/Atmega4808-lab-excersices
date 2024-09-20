@@ -36,7 +36,7 @@ To run the lab exercises in this repository, follow these steps:
    - A red field means the value of the register just changed, blue means the value is 1 and no color means it is 0.
   
 ## Solutions
-For each lab you can see the solutions here:
+**For each lab you can see the solutions here:**
 -[Lab 1](https://github.com/GrigorisTzortzakis/Atmega4808-lab-excersices/tree/main/Lab%201/Traffic%20lights/Solutions)
 -[Lab 2](https://github.com/GrigorisTzortzakis/Atmega4808-lab-excersices/tree/main/Lab%202/Adc%20robotic%20sweeper/Solutions)
 -[Lab 3](https://github.com/GrigorisTzortzakis/Atmega4808-lab-excersices/tree/main/Lab%203/Fan%20control/Solutions)

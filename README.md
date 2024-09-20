@@ -7,7 +7,7 @@ Welcome to the ATmega4808 Lab Exercises repository! This repository contains a c
   - [Lab 1: Traffic lights](https://github.com/GrigorisTzortzakis/Atmega4808-lab-excersices/tree/main/Lab%201/Traffic%20lights)
   - [Lab 2: ADC robotic sweeper](https://github.com/GrigorisTzortzakis/Atmega4808-lab-excersices/tree/main/Lab%202/Adc%20robotic%20sweeper)
   - [Lab 3: Fan control](https://github.com/GrigorisTzortzakis/Atmega4808-lab-excersices/tree/main/Lab%203/Fan%20control)
-  - [Lab 4: Greenhouse](#lab-4-pwm-signal-generation)
+  - [Lab 4: Greenhouse](https://github.com/GrigorisTzortzakis/Atmega4808-lab-excersices/tree/main/Lab%204/Green%20house)
   
   
 

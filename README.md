@@ -28,9 +28,9 @@ To run the lab exercises in this repository, follow these steps:
 
 5. **Simulate and Debug**  
    - Set **Simulator** as the debugger in **Project Properties**.
-   - Each time press f11 (step into) so each line is run by microchips studio.
    - Place breakpoints at each ISR by left clicking on the empty space next to it (a red dot should appear next to it).
-   - Run the project using **Debug → Start Debugging**..
+   - Each time press f11 (step into) so each line is run by microchips studio.
+   - Run the project using **Debug → Start Debugging** only after you run all the code with f11 line by line.
    - See the results of the registers changing by clicking Debug->Windows->I/O.
    - A red field means the value of the register just changed, blue means the value is 1 and no color means it is 0.
   

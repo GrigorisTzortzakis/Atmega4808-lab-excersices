@@ -54,7 +54,8 @@ To run the lab exercises in this repository, follow these steps:
 - [Lab 4](https://github.com/GrigorisTzortzakis/Atmega4808-lab-excersices/tree/main/Lab%204/Green%20house/Solutions)
 
 The format of the pictures is as follows:
+Each pic depicts  step by step execution of the code.
 - **1, 2, 3** refers to images for **Question 1**.
-- For the next question, the first number represents the picture, followed by the number of the question.  
+- For the next question of each lab (each consists of 2 or 3 questions), the first number represents the picture, followed by the number of the question.  
   For example, **3, 2** means picture 3 of question 2.
 
